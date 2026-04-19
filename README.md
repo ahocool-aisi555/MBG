@@ -1,8 +1,8 @@
-# MBG IOT - Penghitung Lari otomatis
+# MBG IOT Evaluation System
 Sistem evaluasi keberhasilan MBG melalui parameter kebugaran siswa<br>
-Telah diuji bersama FIKK Unesa, Desember 2024 - Mei 2025
+Telah diuji bersama FIKK Universitas Negeri Surabaya, Desember 2024 - Mei 2025
 
-# Penjelasan 
+# Penjelasan Melalui Gambar
 
 <img width="960" height="540" alt="Project IOT Nyata  Data Kebugaran Siswa" src="https://github.com/user-attachments/assets/08543496-1c8a-4110-96a9-78b18e95f689" />
 
