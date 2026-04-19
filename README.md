@@ -39,5 +39,5 @@ Telah diuji bersama FIKK Universitas Negeri Surabaya, Desember 2024 - Mei 2025
 
 # Acknowledgement
 1. Bapak Prof Dr. Suroto dan team FIKK Unesa
-2. Bapak Agus Prihatno dan Team Informatika Unesa
+2. Bapak Agus Prihanto dan Team Informatika Unesa
 3. Team Pengukur BMI dari prodi Teknik elektro trunojoyo
