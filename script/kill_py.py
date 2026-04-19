@@ -1,3 +1,7 @@
+# Script by Nyoman Yudi Kurniawan © 2025
+# www.aisi555.com
+# nyomanyudik@gmail.com
+
 import psutil
 import os
 
