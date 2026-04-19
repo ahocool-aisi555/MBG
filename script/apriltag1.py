@@ -1,4 +1,6 @@
-#Script by Nyoman Yudi Kurniawan © 2025
+# Script by Nyoman Yudi Kurniawan © 2025
+# www.aisi555.com
+# nyomanyudik@gmail.com
 
 import cv2
 import numpy as np
