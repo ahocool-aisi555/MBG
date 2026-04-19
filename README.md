@@ -1,5 +1,6 @@
 # MBG IOT Evaluation System
 Sistem evaluasi keberhasilan MBG melalui parameter kebugaran siswa<br>
+Bagian yang kami kerjakan adalah di penghitung waktu lari otomatis via kamera<br>
 Telah diuji bersama FIKK Universitas Negeri Surabaya, Desember 2024 - Mei 2025
 
 # Penjelasan Melalui Gambar
